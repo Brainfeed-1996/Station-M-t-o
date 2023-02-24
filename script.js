@@ -1,6 +1,6 @@
 // Manipulation du DOM
 const searchInput = document.getElementById("searchInput")
-const searchButton = document.getElementById("searchInput")
+const searchButton = document.getElementById("searchButton")
 const city = document.getElementById("searchInput")
 const condition = document.getElementById("searchInput")
 const temperature = document.getElementById("searchInput")

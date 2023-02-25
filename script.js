@@ -1,11 +1,11 @@
 // Manipulation du DOM
 const searchInput = document.getElementById("searchInput")
 const searchButton = document.getElementById("searchButton")
-const city = document.getElementById("searchInput")
-const condition = document.getElementById("searchInput")
-const temperature = document.getElementById("searchInput")
-const sumrise = document.getElementById("searchInput")
-const humidity = document.getElementById("searchInput")
+const city = document.getElementById("city")
+const condition = document.getElementById("condition")
+const temperature = document.getElementById("temperature")
+const sumrise = document.getElementById("sumrise")
+const humidity = document.getElementById("humidity")
 
 //API infos
 
